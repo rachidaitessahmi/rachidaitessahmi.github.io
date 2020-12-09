@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 @font-face {
   font-family: 'icomoon';
   src: url("../fonts/icomoon/icomoon.eot?1z9v6x");
@@ -103,7 +105,7 @@ a:hover, a:focus {
   display: block;
   text-transform: uppercase;
   font-weight: 900;
-  font-family: "Abel", sans-serif;
+  font-family: 'Pacifico', cursive;
   letter-spacing: .1em;
 }
 
